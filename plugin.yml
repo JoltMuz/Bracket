@@ -1,0 +1,10 @@
+name: Bracket
+version: 1.0
+author: JoltTheBolt
+main: io.github.JoltMuz.bracket.main
+api-version: Spigot-1.8.8-R0.1-SNAPSHOT-latest
+
+commands:
+  bracket:
+    description: Start the bracket or end.
+    usage: /bracket [coords|start|end] [x1 y1 z1] [x2 y2 z2]
